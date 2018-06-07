@@ -1,0 +1,21 @@
+I 3D printed a Hexapod designed by Naus
+Link: https://www.thingiverse.com/thing:1021540
+
+Instructions by Naus:
+	- Print with 100% infil at 0.2 mm resolution
+	- Use 12 of 9g servo motor (towerpro sg90)
+	- Need a M3 nylon bolts for joints.(can use metal bolts but heavy)
+	- Need to cut the bolts
+
+Parts to print:
+	Base only 1:
+		- 15mm_spacer (1 x 6) = 6 Pz
+		- lower_base  (1 x 1) = 1 Pz
+		- upper_base  (1 x 1) = 1 Pz
+	Leg need 6:
+		- Leg_A (6 X 1) = 6Pz;
+		- Leg_B (6 X 1) = 6Pz;
+		- Leg_C (6 X 1) = 6Pz;
+		- Leg_D (6 X 1) = 6Pz; 
+		- Leg_E (6 X 1) = 6Pz;
+		- Leg_F (6 X 1) = 6Pz;
